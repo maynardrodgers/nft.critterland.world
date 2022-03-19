@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Beautiful",
+      "value": "100"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    }
+  ],
+  "description": "1ST",
+  "image": "https://hamatech.vn/test/test1.jpg",
+  "name": "1ST"
+}
